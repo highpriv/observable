@@ -3,6 +3,17 @@
 This is the explainer for the Observable API proposal for more ergonomic and
 composable event handling.
 
+## Repository guide
+
+- [Introduction and examples](#introduction): the motivation for the proposal and
+  examples of the Observable API.
+- [Specification source](spec.bs): the API definitions and algorithms, written in
+  Bikeshed format.
+- [Contribution guidelines](CONTRIBUTING.md): requirements for contributing to
+  this W3C Community Group proposal.
+- [Security and privacy review](security-privacy-questionnaire.md): answers to the
+  W3C TAG self-review questionnaire.
+
 ## Introduction
 
 ### `EventTarget` integration
